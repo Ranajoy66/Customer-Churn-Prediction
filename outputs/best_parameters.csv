@@ -1,0 +1,2 @@
+tree__criterion,tree__max_depth,tree__min_samples_leaf,tree__min_samples_split
+entropy,4,2,5

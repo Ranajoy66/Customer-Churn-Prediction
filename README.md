@@ -1,9 +1,3 @@
-Here is a professional, GitHub-ready `README.md` for your Customer Churn Prediction Using Machine Learning project. It explains the project, dataset, workflow, model training, evaluation, and expected outcomes without including code.
-
-Copy and paste the entire content below into a file named `README.md` in your GitHub repository.
-
-Writing
-
 # 📊 Customer Churn Prediction Using Machine Learning
 
 ## 📌 Project Overview
